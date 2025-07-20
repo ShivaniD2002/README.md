@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on: **Education Analytics Project**
 - 🌱 I’m currently learning: **AWS, Data Engineering, Streamlit**
 - 💬 Ask me about: **Python, Data Visualization, Cloud Basics**
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
-- 👨‍💻 All of my projects are available at: [github.com/shivanidasani](https://github.com/shivanidasani)
+- 📫 How to reach me: [Email](mailto:dshivani1121@example.com)
+- 👨‍💻 All of my projects are available at: [github.com/shivanidasari](https://github.com/shivanidasari)
 
 ---
 
@@ -24,8 +24,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanidasani&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidasani&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanidasari&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidasari&theme=radical" />
 </p>
 
 ---
